@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 23c53284381f7554a97e47e0688237bf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cafe24 Ssurround
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 453a4642b5af8e74bba3e4267ef9e967, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
